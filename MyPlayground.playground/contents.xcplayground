@@ -5,5 +5,6 @@
         <page name='Strong Reference Cycle'/>
         <page name='Weak Reference'/>
         <page name='Unowned Reference'/>
+        <page name='Implicitly Unwraped Optional'/>
     </pages>
 </playground>
