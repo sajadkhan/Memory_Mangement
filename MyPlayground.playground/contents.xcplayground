@@ -8,5 +8,6 @@
         <page name='Implicitly Unwraped Optional'/>
         <page name='Closure Strong Cycle'/>
         <page name='Closuer Capture List'/>
+        <page name='Memory Access and Conflicts'/>
     </pages>
 </playground>
