@@ -6,5 +6,7 @@
         <page name='Weak Reference'/>
         <page name='Unowned Reference'/>
         <page name='Implicitly Unwraped Optional'/>
+        <page name='Closure Strong Cycle'/>
+        <page name='Closuer Capture List'/>
     </pages>
 </playground>
